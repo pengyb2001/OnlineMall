@@ -72,6 +72,6 @@
     </form>
 </div>
 
-<div class="button">欢迎报考长沙理工大学</div>
+<div class="button">欢迎进入天猫商城</div>
 </body>
 </html>

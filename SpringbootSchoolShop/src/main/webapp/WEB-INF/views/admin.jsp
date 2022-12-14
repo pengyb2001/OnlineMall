@@ -174,7 +174,7 @@
                 </div>
             </div>
             <footer class="text-right">
-                <div class="button">欢迎报考长沙理工大学</div>
+                <div class="button">欢迎进入天猫商城</div>
                 <p>Copyright &copy; 2019 Company Name
                     | Designed by <a href="http://www.templatemo.com" target="_parent">张鑫</a></p>
             </footer>

@@ -28,7 +28,7 @@ public class WebMvcConfig implements WebMvcConfigurer {
         String pathAbsolute="file:D:/upload/";
         if (!os.toLowerCase().startsWith("windows")){
             // todo mac需要修改地址
-            pathAbsolute="file:/usr/upload/";
+            pathAbsolute="/Users/pengyibo/Downloads/";
         }
         registry.addResourceHandler(pathPatterns).addResourceLocations(pathAbsolute);
 

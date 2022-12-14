@@ -24,7 +24,7 @@ public class ImageUtil {
         String os = System.getProperty("os.name");
         if(!os.toLowerCase().startsWith("windows")){
             // todo mac需要修改地址
-            path="/usr/upload";
+            path="/Users/pengyibo/Downloads";
         }
         String fileName=UUID.randomUUID().toString().substring(0,4)+shopName;
         File dest = new File(path + "/" +fileName);
