@@ -9,10 +9,8 @@ package com.zhang.ssmschoolshop.annotinon;
 import java.lang.annotation.*;
 
 /**
- * @author created by zhangxin27695
  * @Classname ExportEntityMap
  * @Description
- * @Date 2020-03-23 8:58
  */
 @Target({ElementType.FIELD})
 @Retention(RetentionPolicy.RUNTIME)
