@@ -16,7 +16,7 @@ import org.springframework.stereotype.Service;
 import java.time.LocalDate;
 
 /**
- * @author codingzx
+ * @author group
  * @description 发送邮件的服务
  * @link sendEmailToAdmin  用户下单后 发送邮件给管理员
  * @link sendEmailToUser   管理员发送后通知用户

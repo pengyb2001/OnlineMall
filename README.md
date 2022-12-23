@@ -1,4 +1,4 @@
-**OnlineShop-基于Spring boot/SSM商城的搭建教程**
+**地猫商城-基于Spring boot的商城**
 
 > API接口访问  http://127.0.0.1:8081/shop/swagger-ui.html
 
@@ -8,7 +8,7 @@
 
 >管理员帐号  admin 12345678
 
->用户帐号  root codingzx  admin  密码均为 12345678
+>用户帐号  admin grouptest 密码均为 12345678
  
  图片保存路径：  可以全局搜索后替换
  
@@ -16,7 +16,7 @@
  
  linux:  /usr/upload
      
- mac：需要修改代码，见下面已知问题记录. 或者代码全局搜索   // todo mac需要修改地址 
+ mac：有点问题 
    
   
  
