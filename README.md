@@ -21,7 +21,7 @@
   
  
 **技术栈**
- * 后端： SpringBoot Swagger Docker（docker需自己搭建docker环境）
+ * 后端： SpringBoot Swagger
  * 前端： JSP 
  * 数据库：MySQL
  * 技术语言 jdk 1.8
