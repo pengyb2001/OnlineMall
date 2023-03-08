@@ -1,7 +1,7 @@
 package com.zhang.ssmschoolshop.util;
 
 /**
- * @author codingzx
+ * @author group
  * @description
  * @date 2021/4/11 11:23
  */

@@ -1,7 +1,6 @@
 <%--
   Created by IntelliJ IDEA.
-  User: zhangxin
-  Date: 2019/5/13
+  *
   Time: 15:45
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -72,6 +71,6 @@
     </form>
 </div>
 
-<div class="button">欢迎报考长沙理工大学</div>
+<div class="button">欢迎来到地猫商城</div>
 </body>
 </html>

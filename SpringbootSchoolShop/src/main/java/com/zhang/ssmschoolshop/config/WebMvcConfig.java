@@ -7,10 +7,9 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 
 /**
- * @author created by CodingZhangxin
+ * @author created by Coding
  * @version v.0.1
- * @Description TODO
- * @date 2019/5/10
+ * @Description
  * @备注  springboot内置tomcat配置虚拟路径
  *      linux： /usr/upload  /pictures
  *      window:  d:/upload  /pictures

@@ -1,7 +1,6 @@
 <%--
   Created by IntelliJ IDEA.
-  User: zhangxin
-  Date: 2019/5/13
+  *
   Time: 15:45
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -11,7 +10,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>长理商城-小淘</title>
+    <title>地猫商城-小淘</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/main.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/chatrobot.css">
     <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">

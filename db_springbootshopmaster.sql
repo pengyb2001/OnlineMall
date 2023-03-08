@@ -60,7 +60,7 @@ CREATE TABLE `address` (
 -- Records of address
 -- ----------------------------
 INSERT INTO `address` VALUES ('7', '1', '北京市', '北京市市辖区', '东城区', '12312', '123123', '2131231321');
-INSERT INTO `address` VALUES ('8', '3', '湖南省', '长沙市', '雨花区', '长沙理工大学', '张鑫', '18229189406');
+INSERT INTO `address` VALUES ('8', '3', '上海市', '上海市', '虹口区', '复旦大学', '周子博', '18019003773');
 
 -- ----------------------------
 -- Table structure for admin
@@ -327,6 +327,6 @@ CREATE TABLE `user` (
 -- Records of user
 -- ----------------------------
 INSERT INTO `user` VALUES ('1', 'root', '25d55ad283aa400af464c76d713c07ad', '2019-04-18 17:16:34', '916877983@qq.com', '18229819406');
-INSERT INTO `user` VALUES ('2', 'codingzx', '25d55ad283aa400af464c76d713c07ad', '2019-04-22 15:29:12', '994683607@qq.com', '18229819406');
+INSERT INTO `user` VALUES ('2', 'group', '25d55ad283aa400af464c76d713c07ad', '2019-04-22 15:29:12', '994683607@qq.com', '18229819406');
 INSERT INTO `user` VALUES ('3', 'admin', '25d55ad283aa400af464c76d713c07ad', '2019-05-16 10:46:46', '123123', '1231321');
 SET FOREIGN_KEY_CHECKS=1;

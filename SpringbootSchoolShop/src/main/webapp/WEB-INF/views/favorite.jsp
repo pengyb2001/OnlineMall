@@ -1,7 +1,6 @@
 <%--
   Created by IntelliJ IDEA.
-  User: zhangxin
-  Date: 2019/5/13
+  *
   Time: 15:45
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -137,7 +136,7 @@
         <header class="demo-drawer-header">
             <%-- <img src="images/user.jpg" class="demo-avatar">--%>
             <div class="demo-avatar-dropdown">
-                <h1>长理商城</h1>
+                <h1>地猫商城</h1>
                 <div class="mdl-layout-spacer"></div>
 
             </div>

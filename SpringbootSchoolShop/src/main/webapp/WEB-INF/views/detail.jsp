@@ -1,7 +1,6 @@
 <%--
   Created by IntelliJ IDEA.
-  User: zhangxin
-  Date: 2019/5/13
+  *
   Time: 15:45
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -12,7 +11,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>长理商城-${goodsInfo['goods'].goodsname}</title>
+    <title>地猫商城-${goodsInfo['goods'].goodsname}</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -284,6 +283,7 @@
                             <input type="number" value="1" name="goodsnum">
                             <button class="add-tocart cart_zpf" type="submit">加入购物车</button>
                         </form>
+                        <a href="http://127.0.0.1:8081/shop/order"><button type="button">立即购买</button></a>
                         <div class="add_defi new_meta">
                             <a data-original-title="Add to Wishlist" data-toggle="tooltip" class="fav-button big-font" data-id="${goodsInfo['goods'].goodsid}">
                                 <c:if test="${goodsInfo['goods'].fav}">
